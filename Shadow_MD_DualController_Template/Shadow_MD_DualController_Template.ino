@@ -31,7 +31,7 @@
 // ---------------------------------------------------------------------------------------
 
 String PS3ControllerFootMac = "04:76:6E:3F:88:7C";  //Set this to your FOOT PS3 controller MAC address
-String PS3ControllerDomeMAC = "XX:XX:XX:XX:XX:XX";  //Set to a secondary DOME PS3 controller MAC address (Optional)
+String PS3ControllerDomeMAC = "00:06:F7:3C:90:04";  //Set to a secondary DOME PS3 controller MAC address (Optional)
 
 String PS3ControllerBackupFootMac = "XX";  //Set to the MAC Address of your BACKUP FOOT controller (Optional)
 String PS3ControllerBackupDomeMAC = "XX";  //Set to the MAC Address of your BACKUP DOME controller (Optional)
